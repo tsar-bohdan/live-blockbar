@@ -1,3 +1,4 @@
+<img width="1024" height="158" alt="live_blockbar_title" src="https://github.com/user-attachments/assets/70b7b40c-2c01-4c11-aa8b-af5edc84818b" />
 # Вітаю Баймікофери!
 
 Це четверта стіна модпака, де ви можете побачити його бету ОМАГА!
